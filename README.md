@@ -1,2 +1,1 @@
-Hello🐠‌    
-I'm a fake developer🐟
+This README isn't visible in your current version of GitHub.
